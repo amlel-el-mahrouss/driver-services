@@ -1,20 +1,20 @@
-<!-- README of ZKA DDK 1 -->
+<!-- README of OpenNE DDK 1 -->
 
-![ZKA](res/zka.svg)
+![OpenNE](res/OpenNE.svg)
 
-# ZKA DDK (Mark 1)
+# OpenNE DDK (Mark 1)
 
-Use this to write drivers for ZKA.
+Use this to write drivers for OpenNE.
 
 ## Installation:
 
 - MinGW/GCC for the Kernel and bootloader.
-- Netwide Assembler/NDK to output COFF object code.
+- Netwide Assembler/OpenCC to output COFF object code.
 
 ### Start by cloning the DDK:
 
 ```
-git clone git@github.com:amlel-el-mahrouss/driver-services.git
+git clone git@github.com:amlel-el-mahrouss/ddk.git
 cd ddk
 ```
 

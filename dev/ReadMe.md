@@ -1,4 +1,4 @@
-<!-- README of ZKA DDK 1 -->
+<!-- README of OpenNE DDK 1 -->
 
 # LibDDK
 

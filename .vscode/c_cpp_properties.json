@@ -1,7 +1,7 @@
 {
     "configurations": [
         {
-            "name": "MinKrnl and ZKA OS",
+            "name": "MinKrnl and OpenNE OS",
             "includePath": [
                 "${workspaceFolder}/**"
             ],

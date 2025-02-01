@@ -7,14 +7,14 @@
 #include <zxd.h>
 
 /// @brief This program converts a PE32+ driver, into a custom format, the ZXD.
-/// @note ZXD is a format for ZKA signed drivers.
+/// @note ZXD is a format for OpenNE signed drivers.
 int main(int argc, char* argv[])
 {
 	for (size_t i = 1ul; i < argc; ++i)
 	{
 		if (strcmp(argv[i], "/?") == 0)
 		{
-			std::cout << "zxdmake: ZKA ZXD Driver Tool.\n";
+			std::cout << "zxdmake: OpenNE ZXD Driver Tool.\n";
 			std::cout << "zxdmake: © Amlal EL Mahrouss, all rights reserved.\n";
 
 			return 0;
